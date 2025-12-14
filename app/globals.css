@@ -24,3 +24,31 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.skCard h2 {
+  color: black;
+}
+
+.loSuBtn {
+  padding: 0.5rem;
+  font-size: 1.3rem;
+}
+
+.loginBtn {
+  color: rgb(1, 75, 1);
+  font-weight: 700;
+}
+
+.signupBtn {
+  background-color: green;
+  border-radius: 1rem;
+  color: #fff;
+}
+
+.loginBtn:hover {
+  color: rgb(1, 75, 1);
+}
+
+.signupBtn:hover {
+  color: #fff;
+}

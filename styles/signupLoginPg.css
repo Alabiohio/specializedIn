@@ -1,0 +1,6 @@
+.signup-login-link {
+    text-decoration: underline;
+}
+.signup-login-link:hover {
+    text-decoration: none;
+}
